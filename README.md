@@ -1,0 +1,2 @@
+# core
+PHP STRUCTURED CORE
