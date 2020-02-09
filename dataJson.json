@@ -1,0 +1,17 @@
+{
+	"Admin":[
+				{
+					"adminID":"1",
+					"admin_name":"Ezpk",
+					"admin_email":"ezpk@gmail.com",
+					"admin_password":"admin@ezpk"
+				},
+				{
+					"adminID":"2",
+					"admin_name":"Ezechiel",
+					"admin_email":"ezechiel@gmail.com",
+					"admin_password":"admin@ezechiel"
+				}
+
+			]
+}

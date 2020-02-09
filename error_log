@@ -1,0 +1,16 @@
+[26-Nov-2019 17:36:06 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home2/bykpcdns/public_html/admin/core/email.php on line 5
+[26-Nov-2019 17:37:22 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/bykpcdns/public_html/admin/core/email.php on line 8
+[26-Nov-2019 17:38:08 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/bykpcdns/public_html/admin/core/email.php on line 8
+[26-Nov-2019 17:38:13 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/bykpcdns/public_html/admin/core/email.php on line 8
+[26-Nov-2019 17:39:41 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/bykpcdns/public_html/admin/core/email.php on line 8
+[26-Nov-2019 17:45:56 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home2/bykpcdns/public_html/admin/core/email.php on line 5
+[26-Nov-2019 17:48:53 UTC] PHP Warning:  Creating default object from empty value in /home2/bykpcdns/public_html/admin/core/email.php on line 16
+[26-Nov-2019 17:48:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::isSMTP() in /home2/bykpcdns/public_html/admin/core/email.php:17
+Stack trace:
+#0 /home2/bykpcdns/public_html/admin/core/email.php(49): sendEmailPRO()
+#1 {main}
+  thrown in /home2/bykpcdns/public_html/admin/core/email.php on line 17
+[26-Nov-2019 17:52:39 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home2/bykpcdns/public_html/admin/core/email.php on line 10
+[26-Nov-2019 17:53:38 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home2/bykpcdns/public_html/admin/core/email.php on line 4
+[26-Nov-2019 17:55:34 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home2/bykpcdns/public_html/admin/core/email.php on line 4
+[26-Nov-2019 17:56:40 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home2/bykpcdns/public_html/admin/core/email.php on line 10
